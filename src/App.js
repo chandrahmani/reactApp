@@ -12,7 +12,7 @@ function App() {
   const activeMenuStyle = ({isActive}) => {
 
     let activeStyles = {
-      background: "yellow",
+      background: "green",
       padding: '15px',
       maring: '6px'
     };
