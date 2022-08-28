@@ -23,7 +23,7 @@ const Bike = () => {
         <p>
           Bajaj Pulsar N160 is a street bike available at a starting price of Rs.
           1,24,264 in India. It is available in 2 variants and 4 colours with top
-          variant price starting from Rs. 1,26,420. The Bajaj Pulsar N160 is
+          variant price starting from Rs. 1,40,420. The Bajaj Pulsar N160 is
           powered by 164.82cc BS6 engine which develops a power of 15.68 bhp and a
         </p>
   
