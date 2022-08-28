@@ -3,7 +3,7 @@ const Bike = () => {
       <section>
         <h1>Welcome to Bajaj Bike</h1>
         <ul className="list-group list-group-flush">
-          <li className="list-group-item">Bajaj Pulsar N160</li>
+          <li className="list-group-item">Bajaj Pulsar N170</li>
           <li className="list-group-item">Bajaj Pulsar 125</li>
           <li className="list-group-item">Bajaj Pulsar 150</li>
           <li className="list-group-item">Bajaj Pulsar RS 200</li>
